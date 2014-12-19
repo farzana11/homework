@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c51b47b9-fe2e-4240-ab5f-311ceccec012" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/explode() examples.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/A htmlentities() example.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="homework.iws" />
@@ -93,8 +93,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="explode() examples.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="explode() examples.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/explode() examples.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A htmlentities() example.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A htmlentities() example.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -123,6 +133,7 @@
         <option value="$PROJECT_DIR$/serialize() example.php" />
         <option value="$PROJECT_DIR$/unserialize() example.php" />
         <option value="$PROJECT_DIR$/explode() examples.php" />
+        <option value="$PROJECT_DIR$/A htmlentities() example.php" />
       </list>
     </option>
   </component>
@@ -318,6 +329,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/explode() examples.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A htmlentities() example.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
